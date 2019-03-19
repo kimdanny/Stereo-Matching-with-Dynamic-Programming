@@ -1,6 +1,7 @@
 /**
  * <Reference>
- * I.J.Cox, et al(1992), "Stereo Without Disparity Gradient Smoothing: a Bayesian Sensor fusion solution" (pg. 337-346)
+ * I.J.Cox, et.al.(1992), "Stereo Without Disparity Gradient Smoothing: a Bayesian Sensor fusion solution", pp.337-346, 
+ * Available at: http://www.bmva.org/bmvc/1992/bmvc-92-035.pdf
  */
 public class ForwardPassing {
     double[][] z1;
